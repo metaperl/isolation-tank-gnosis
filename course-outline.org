@@ -51,17 +51,28 @@ expected of you and can occur to you:
                   susceptible to manipulation. ITG is designed to
                   eliminate this possibility as well as its close
                   friend, peer pressure.
+- Deception :: p.40 CoC "I was doublecrossed"
 - Dependency :: No longer is your path to freedom blocked by the
-                rules, regulations or expections of a group. A single
+                rules, regulations or expections of a group. No longer
+                do you need to bring flowers or queue up in a line
+                for a few seconds with the enlightened master! A single
                 ritual is available to you 24 hours a day, 7 days a
                 week!
+                #+begin_quote
+                The Pied Pipe entrances and entrains the children.
+                -- p. 38 COC
+                #+end_quote
 
 Now that we've gone over the basics of Isolation Tank Gnosis, we will
 get agreement on a few topics so that we can you, and anyone else,
 return to a realm of utter freedom and no need to agree with anyone!
 ** Truth
+*** COC p.15 = time period 2
+*** COC p.38 = I prefer staying in my own center
 *** tqc 71 - you can discover...
 *** G. Spencer Brown Laws of Form (tqc 22) - simplest truth
+***
+
 ** Reality
 *** p.163 (tds? simulations?) - sane and pragmatic vs psychic, insane, nonsane
 *** p.191 (actual document simulations) - reality is =
@@ -108,6 +119,7 @@ return to a realm of utter freedom and no need to agree with anyone!
 *** Yoga Nidra
 *** Plugging your ears
 *** Social Isolation
+*** Word Repetition
 ** From Reality to Truth over Time
 *** Dreamspell calendar - 13 moons + 1 day out of time
 ** References, Acknowledgements and Further Reading
