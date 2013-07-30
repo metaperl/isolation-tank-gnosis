@@ -1,6 +1,23 @@
 #+TITLE Isolation Tank Gnosis
 
+* Isolation in 13 Versions
+
+In this chapter we lay down the complete doctrine of Isolation Tank
+Gnosis in 13 sentences. The rest of this text is simply elaborating
+on what is written here in terse form:
+
+1. Truth exists for you Alone.
+2. When others agree with you, it becomes a reality
+3. God is All
+4. God is All One
+5. God is Alone
+6. In isolation, you are alone
+7. In isolation you are god
+
+
+*
 * Truth
+** TRUTH IS 100% PERSONAL. YOU ARE NEVER SEPARATE FROM THE TRUTH
 Truth is the most central topic in ITG because the purpose of ITG is
 to aid the search for Truth. What is Truth? ITG adopts the definition
 of truth laid down in "Spiritologie" by Andreas Buttler: "Truth exists for you
@@ -9,21 +26,23 @@ alone. If others agree with you, it becomes a Reality."
 ITG considers illusion, delusion, imagination, dreams, fantasies and
 hallucination to be synonomous with Truth.
 
+#+begin_quote
 Don't part with your illusions. When they are gone you may still
-exist, but you will have ceased to lve.
+exist, but you will have ceased to live. -- Mark Twain
+#+end_quote
 
-** COC p.15 = time period 2
-** COC p.38 = I prefer staying in my own center
-** tqc 71 - you can discover...
-** G. Spencer Brown Laws of Form (tqc 22) - simplest truth
-** redact Lilly's "province of the mind" statement
-
-** A Hailstorm of Truth
- psychology is, so to speak, simply being ‘used’ and even only exists
+#+begin_quote
+Psychology is, so to speak, simply being ‘used’ and even only exists
  – with this phony theory of ‘normality’ – to give you a hellish fear
- of think- ing differently or being different from your environment
+ of think- ing differently or being different from your environment.
 
-I would like to invite you to please quit adjust- ing your personal truth to that of the public and not even letting it be adjusted. That is what truth really is, namely a personal, individual thing!
+I would like to invite you to please quit adjust- ing your personal
+truth to that of the public and not even letting it be adjusted.
+That is what truth really is, namely a personal, individual thing!
+
+-- Andreas Buttler, Spiritologie
+#+end_quote
+
 * Reality
 Each of these is senior to,
 and responsible for the existence of Reality in it's various guises - science,
@@ -53,13 +72,19 @@ Now that we've covered the various realms, let's summarize them:
 ** COC p.217 is the admittance test. contrast with p.218
 ** Afow first page
 * Isolation
+Now, we begin to delve into the specifics of ITG's approach to
+seeking Truth. As we have acknowledged before, many religious
+organizations are in 100% agreement with our definition of
+Truth. They simply have a different path to it.
 ** Isolation and God
 ** Isolation Tank, Described
 *** e.r. interlocks are minimized to zero
 *** p.91 - inner realities to be penetrated
 *** p.129 "when given freedom from external..."
 
+** tqc 71 - you can discover...
 * Temple, Ceremony and Ritual
+** COC p.38 = I prefer staying in my own center
 ** definition of terms
 ** Temple is designed to encourage social isolation
 *** p.126 TDS
