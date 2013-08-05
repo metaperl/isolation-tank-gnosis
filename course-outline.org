@@ -69,7 +69,7 @@ and bit of commentary on each.
 
 ** "The world is in your mind" viewpoint
 We need to define one term in the quote to follow and that is
-"consideration". A consideration is a creative thought - Michael
+"consideration". A consideration is a creative thought -- Michael
 Jackson before composing "Billie Jean", Van Gogh before composing "A
 Starry Night." So now let's read the quotation:
 
@@ -128,7 +128,17 @@ and ability of his own considerations (postulates).
 -- L. Ron Hubbard "Scientology 0-8"
 #+end_quote
 
+Now, if considerations take rank over the mechanics of MEST (Matter,
+Energy, Space and Time), then certainly creative thought processes
+take rank over the entities and interactions within MEST as well!
+This means that all of the hard and soft sciences are transient
+fignments of imagination. It means that the late night news and every
+recollection you agree occurred are as well. It means that any matter
+perceived, animate or inanimate, is also collective imagination.
+
 ** "The world exists independant of your mind" viewpoint
+We now will read a different
+
 
 * Consiousness without an Object
 ** Planes of Being
@@ -139,12 +149,13 @@ and ability of his own considerations (postulates).
 
 * Reflection, summary and evaluation
 Now that we've covered the various realms, let's summarize them:
-| Level | Point of View                                | Description                                                          | Signature Text                                  | Representative Systems                                                                 |
-|     0 | None                                         | Utter nothingness                                                    | "Hsin Hsin Ming" (The Book of Nothing) by Sosan | If anything, Zen Buddhism                                                              |
-|     1 | Subject with No Object                       | Pure being, Consciousness without an object, Advaita Vedana          | "Reality in 40 Verses" by Ramana Maharshi       | Advaita Vedanta                                                                        |
-|     2 | Subject with Personal Objects                | TRUTH, Imagination, Illusion, Shamanic Journeying, Psychedelic Trips | "Spiritologie"                                  | Isolation Tank Gnosis, Poetry, Dance, Art, Cartoons, Pure Mathematics, Quantum Physics |
-|     3 | Subject with Objects other Subjects Agree On | Reality                                                              | Any classical mechanics textbook                | Science other than Quantum Physics, a Court of Law, Intentional Communities            |
-|       |                                              |                                                                      |                                                 |                                                                                        |
+| Level | Point of View                                | Description                                                                            | Signature Text                                  | Representative Systems                                                                           |
+|     0 | None                                         | Utter nothingness                                                                      | "Hsin Hsin Ming" (The Book of Nothing) by Sosan | If anything, Zen Buddhism                                                                        |
+|     1 | Subject with No Object                       | Pure being, Consciousness without an object, Advaita Vedana                            | "Reality in 40 Verses" by Ramana Maharshi       | Advaita Vedanta, Franklin Merrell-Wolff                                                          |
+|     2 | Subject with Personal Objects                | TRUTH, Imagination, Illusion, Shamanic Journeying, Psychedelic Trips, Pure Mathematics | "Spiritologie"                                  | Isolation Tank Gnosis, Poetry, Dance, Art, Cartoons, Pure Mathematics, Quantum Physics           |
+|     3 | Subject with Objects other Subjects Agree On | Reality                                                                                | Any classical mechanics textbook                | Applied mathematics, Science other than Quantum Physics, a Court of Law, Intentional Communities |
+|       |                                              |                                                                                        |                                                 |                                                                                                  |
+
 ** COC p.217 is the admittance test. contrast with p.218
 ** Afow first page
 * Isolation
