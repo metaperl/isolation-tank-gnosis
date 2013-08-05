@@ -1,4 +1,4 @@
 isolation-tank-gnosis
 =====================
 
-Isolation Tank Gnosis :: description
+You may read this document [here](http://static.livingcosmos.org/isolation-tank-gnosis/course-outline.html)

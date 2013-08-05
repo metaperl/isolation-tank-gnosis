@@ -139,12 +139,12 @@ and ability of his own considerations (postulates).
 
 * Reflection, summary and evaluation
 Now that we've covered the various realms, let's summarize them:
-| Level | Point of View | Description                                      | Signature Text                            | Representative Systems                                                      |
-|     0 | None          | Utter nothingness                                |                                           | What word of system could capture this?                                     |
-|     1 | None          | Consciousness without an object, Advaita Vedana  | "Reality in 40 Verses" by Ramana Maharshi | Zen Buddhism, Advaita Vedanta                                               |
-|     2 | Subjective    | Imagination, Illusion, Heavy Metal Magazine, etc | "Spiritologie"                            | Isolation Tank Gnosis, Poetry, Dance, Art, Cartoons, Pure Mathematics, Quantum Physics |
-|     3 | Objective     | REALITY                                          | Any classical mechanics textbook          | Science other than Quantum Physics, a Court of Law, Intentional Communities |
-|       |               |                                                  |                                           |                                                                             |
+| Level | Point of View                                | Description                                                          | Signature Text                                  | Representative Systems                                                                 |
+|     0 | None                                         | Utter nothingness                                                    | "Hsin Hsin Ming" (The Book of Nothing) by Sosan | If anything, Zen Buddhism                                                              |
+|     1 | Subject with No Object                       | Pure being, Consciousness without an object, Advaita Vedana          | "Reality in 40 Verses" by Ramana Maharshi       | Advaita Vedanta                                                                        |
+|     2 | Subject with Personal Objects                | TRUTH, Imagination, Illusion, Shamanic Journeying, Psychedelic Trips | "Spiritologie"                                  | Isolation Tank Gnosis, Poetry, Dance, Art, Cartoons, Pure Mathematics, Quantum Physics |
+|     3 | Subject with Objects other Subjects Agree On | Reality                                                              | Any classical mechanics textbook                | Science other than Quantum Physics, a Court of Law, Intentional Communities            |
+|       |                                              |                                                                      |                                                 |                                                                                        |
 ** COC p.217 is the admittance test. contrast with p.218
 ** Afow first page
 * Isolation
@@ -179,6 +179,12 @@ Truth. They simply have a different path to it.
 ** Night time is an allright time
 ** Time limits
 
+* Charge for Service
+** Entirely free
+** Donation based
+** Pay full price
+** Receive service on credit
+** Patronize my business
 * Alternative Isolation Techniques
 We must remember that Isolation is a path to the Truth, not truth
 itself. So, accurately, this chapter should be about ways to dwell in
@@ -193,6 +199,7 @@ Truth
 ** via logical proof
 
 ** via God Out There chapter in simulations of god.
+
 * Welcome
 Welcome to Isolation Tank Gnosis (ITG), the religion where Isolation
 is the The Way and Imagination the Path! Because Isolation Tank Gnosis
