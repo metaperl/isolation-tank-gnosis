@@ -1,5 +1,6 @@
 #+TITLE Isolation Tank Gnosis
 
+# <<Ii13>>
 * Isolation in 13 Verses
 
 In this chapter we lay down the complete doctrine of Isolation Tank
@@ -9,7 +10,7 @@ on what is tersely written here:
 1. TRUTH exists for YOU Alone.
 2. When others agree with YOU, it becomes a Reality
 3. TRUTH is senior to Reality
-3. TRUTH has the following synonyms GOD, Love, Oneness, Imagination,
+3. TRUTH has the following synonyms GOD, Love, Isolation, Oneness, Imagination,
    Delusion, Illusion, Sentience, Creativity, Life Force, and most
    significantly YOU.
 3. Some have postulated that "GOD is All".
@@ -136,16 +137,43 @@ fignments of imagination. It means that the late night news and every
 recollection you agree occurred are as well. It means that any matter
 perceived, animate or inanimate, is also collective imagination.
 
-** "The world exists independant of your mind" viewpoint
-We now will read a different
+** "The world exists independent of your mind" viewpoint
+We now will read a different text which explores another viewpoint on
+reality.
+
+#+begin_quote
+"... Reality ... expresses that which is completely objective as
+opposed to anything subjective. By objective we mean existing without
+the mind, outside it, and wholly independent of it. Subjective, on
+the other hand, takes the meaning of that which is in the mind. For
+instance, consider the case of a small child which has its fingers
+stepped on for the frist time. The child perceives through its sense
+of sight that a thing has caused a sensation of pain, also that this
+was not under the control of his mind --- therefore it is
+objective. The sensation of pain passing to the child's brain forms a
+thought of fear, or anger directed towards the cause of the
+sensation. This thought is subjective.
+
+-- "Reality" by John Lilly, Republished in Appendix One of
+"Simulations of God"
+#+end_quote
 
 
-* Consiousness without an Object
-** Planes of Being
-*** Nothing
-*** Consciousness (subject with no object)
-*** Truth (subject with peronal objects and events)
-*** Reality (subject with consensus objects and events)
+* Consciousness without an Object
+Thus far, we have looked at two planes of consciousness: TRUTH and
+Reality. We have seen a single definition of truth and two possible
+understandings of Reality. In both planes examined thus far there are
+both subjects and objects. In the TRUTH world, we are conscious of our
+imaginings. I.e., the subject is absorbed in imaginary objects. In
+Reality, we are conscious of consensus objects. In stark contrast, in
+the consciousness without an object plane, there is only the subject
+--- no objects!
+
+Franklin Merrell-Wolff realized this state and wrote about it. Many
+great Advaita Masters, [[http://AHAM.com][Arunachala Ramana]] among others also realized
+and wrote about this state. Practictioners of this level of
+consciousness are more intent on the camera than the imaginary or
+"real" objects playing out on the screen.
 
 * Reflection, summary and evaluation
 Now that we've covered the various realms, let's summarize them:
@@ -156,14 +184,71 @@ Now that we've covered the various realms, let's summarize them:
 |     3 | Subject with Objects other Subjects Agree On | Reality                                                                                | Any classical mechanics textbook                | Applied mathematics, Science other than Quantum Physics, a Court of Law, Intentional Communities |
 |       |                                              |                                                                                        |                                                 |                                                                                                  |
 
-** COC p.217 is the admittance test. contrast with p.218
-** Afow first page
+Now let's be clear where TRUTH is in ITG. It is level 2 in the table
+above.
+** Traps
+Perhaps traps is a bit too strong of a word, but we definitely want
+to be on guard for swapping our definition of TRUTH for _any_
+consensus[fn:: No matter how popular, seductive, impressive, etc it
+may be]. The Route to Infinity requires each "I" to express things
+as seen through its eyes. [fn:: The author acknowledges [[http://www.allabout-energy.com][Amy Flynn and
+The Collective]] for the channeled analogy about "I" and "eyes"].
+
+If you notice, we are not nearly as apprehensive about the result of
+our religious practice leading you into Level 1 or Level 0. Our main
+goal is to ensure we dont start expecting any particular objective
+phenomenon or idea from our members.
+
+
 * Isolation
 Now, we begin to delve into the specifics of ITG's approach to
-seeking Truth. As we have acknowledged before, many religious
+seeking TRUTH. As we have acknowledged before, many religious
 organizations are in 100% agreement with our definition of
-Truth. They simply have a different path to it.
-** Isolation and God
+TRUTH. They simply have a different path to it[fn:: For instance
+Spiritologie makes use of auditing and the Imagination Process to
+help seekers arrive at TRUTH.].
+
+[[Ii13][Isolation in 13 verses]] offered a proof that Isolation leads to
+TRUTH. But proof is just the analysis of belief. But it sounded nice,
+didn't it? Lilly himself discovered: "There was no creation by
+God. There was no God..."[fn:: p.90 "Center of the Cycle"].
+But anyway, how to achieve isolation? Well, there are many ways to
+achieve isolation. In "The Quiet Center" John Lilly discusses a number
+of ways that isolation occurs.
+
+** ITG provides Isolation Through the Isolation Tank
+So, the Isolation Tank can provide Isolation and hence TRUTH. How
+does isolation occur? In a few ways:
+- you are in a large tub of water heated to skin temperature. This
+  actually serves more as an expander than an isolator
+- you have a ton of salt dissolved in the water. This allows you to
+  float like a cork, thereby providing sensorimotor ioslation. You
+  are isolated from gravity because you are floating. And you are
+  freed of the motor task of balancing your body.
+- The tub of water is covered over the top. This removes the
+  influence of light and sound on you.
+
+It's worth mentioning here that none of the isolation tank's
+isolation is anywhere near perfect. And it doesnt need to be because
+the "The Tank is Your Native State"[fn:: to quote the title of the
+final chapter of "Tanks for the Memories" by EJ Gold]. You couldn't
+leave isolation if you wanted to. But you can certainly make it seem
+that way:
+
+#+begin_quote
+Nothing is happening.
+Nothing ever has happened, or ever will happen.
+All that I have been aware of is ..
+#+end_quote
+
+So, the just provides you a gentle nudge, a subtle hint, of your
+native state!
+
+And since it is your native state, how much instruction, preaching,
+praying, etc is necessary to get you to TRUTH? We say little to none
+and the less the better. So rejoice with us and say: "I am God in
+Isolation (IAGII). In isolation I am God (IIIAG).
+
 ** Isolation Tank, Described
 *** e.r. interlocks are minimized to zero
 *** p.91 - inner realities to be penetrated
@@ -190,6 +275,7 @@ Truth. They simply have a different path to it.
 ** Night time is an allright time
 ** Time limits
 
+** Afow first page
 * Charge for Service
 ** Entirely free
 ** Donation based
@@ -216,6 +302,13 @@ Welcome to Isolation Tank Gnosis (ITG), the religion where Isolation
 is the The Way and Imagination the Path! Because Isolation Tank Gnosis
 is simple, personal and experiential, there is very little
 writing/instruction about it necessary.
+
+#+begin_quote
+Laws as such do not make people better, they must practise certain
+things, in order to become attuned to inner truth.
+
+-- Indries Shah, "The Tales of Nasrudin"
+#+end_quote
 
 ** What it is
 ITG is an organization whose sole purpose is to faciliate gnosis via
