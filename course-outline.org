@@ -217,16 +217,21 @@ achieve isolation. In "The Quiet Center" John Lilly discusses a number
 of ways that isolation occurs.
 
 ** ITG provides Isolation Through the Isolation Tank
+While there are many ways to accomplish isolation, ITG provides just
+one: the isolation tank, a device invented by John C. Lilly in 1954.
 So, the Isolation Tank can provide Isolation and hence TRUTH. How
 does isolation occur? In a few ways:
 - you are in a large tub of water heated to skin temperature. This
   actually serves more as an expander than an isolator
 - you have a ton of salt dissolved in the water. This allows you to
   float like a cork, thereby providing sensorimotor ioslation. You
-  are isolated from gravity because you are floating. And you are
-  freed of the motor task of balancing your body.
+  are isolated from the sense of gravity because you are floating. And
+  you are freed of the motor task of balancing your body.
 - The tub of water is covered over the top. This removes the
-  influence of light and sound on you.
+  influence of light and sound on you. This again is both sensory and
+  motor freedom. No need to process images and sound. And hence the
+  resulting semi-automatic survival-driven calculations do not
+  follow.
 
 It's worth mentioning here that none of the isolation tank's
 isolation is anywhere near perfect. And it doesnt need to be because
@@ -247,15 +252,26 @@ native state!
 And since it is your native state, how much instruction, preaching,
 praying, etc is necessary to get you to TRUTH? We say little to none
 and the less the better. So rejoice with us and say: "I am God in
-Isolation (IAGII). In isolation I am God (IIIAG).
+Isolation (IaGiI). In isolation I am God (IiIaG).
 
-** Isolation Tank, Described
-*** e.r. interlocks are minimized to zero
-*** p.91 - inner realities to be penetrated
-*** p.129 "when given freedom from external..."
+#+begin_quote
+You can discover profound truths about your Self, about your
+capabilities through experimenting with your bio-computer in the void
+state, a state isolated from sensory input.
 
-** tqc 71 - you can discover...
+-- John Lilly "The Quiet Center"
+#+end_quote
+
 * Temple, Ceremony and Ritual
+The temple, ceremony and ritual of ITG is designed to prevent the
+sort spillage we read about here:
+
+#+begin_quote
+
+#end_quote
+
+*
+* Afow first page
 ** COC p.38 = I prefer staying in my own center
 ** definition of terms
 ** Temple is designed to encourage social isolation
@@ -275,7 +291,7 @@ Isolation (IAGII). In isolation I am God (IIIAG).
 ** Night time is an allright time
 ** Time limits
 
-** Afow first page
+
 * Charge for Service
 ** Entirely free
 ** Donation based
