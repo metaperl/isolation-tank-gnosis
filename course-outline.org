@@ -158,7 +158,6 @@ sensation. This thought is subjective.
 "Simulations of God"
 #+end_quote
 
-
 * Consciousness without an Object
 Thus far, we have looked at two planes of consciousness: TRUTH and
 Reality. We have seen a single definition of truth and two possible
@@ -166,8 +165,7 @@ understandings of Reality. In both planes examined thus far there are
 both subjects and objects. In the TRUTH world, we are conscious of our
 imaginings. I.e., the subject is absorbed in imaginary objects. In
 Reality, we are conscious of consensus objects. In stark contrast, in
-the consciousness without an object plane, there is only the subject
---- no objects!
+the consciousness without an object plane, there is only the subject!
 
 Franklin Merrell-Wolff realized this state and wrote about it. Many
 great Advaita Masters, [[http://AHAM.com][Arunachala Ramana]] among others also realized
@@ -175,20 +173,44 @@ and wrote about this state. Practictioners of this level of
 consciousness are more intent on the camera than the imaginary or
 "real" objects playing out on the screen.
 
-* Reflection, summary and evaluation
-Now that we've covered the various realms, let's summarize them:
-| Level | Point of View                                | Description                                                                            | Signature Text                                  | Representative Systems                                                                           |
-|     0 | None                                         | Utter nothingness                                                                      | "Hsin Hsin Ming" (The Book of Nothing) by Sosan | If anything, Zen Buddhism                                                                        |
-|     1 | Subject with No Object                       | Pure being, Consciousness without an object, Advaita Vedana                            | "Reality in 40 Verses" by Ramana Maharshi       | Advaita Vedanta, Franklin Merrell-Wolff                                                          |
-|     2 | Subject with Personal Objects                | TRUTH, Imagination, Illusion, Shamanic Journeying, Psychedelic Trips, Pure Mathematics | "Spiritologie"                                  | Isolation Tank Gnosis, Poetry, Dance, Art, Cartoons, Pure Mathematics, Quantum Physics           |
-|     3 | Subject with Objects other Subjects Agree On | Reality                                                                                | Any classical mechanics textbook                | Applied mathematics, Science other than Quantum Physics, a Court of Law, Intentional Communities |
-|       |                                              |                                                                                        |                                                 |                                                                                                  |
+#+begin_quote
+What good does it do to know everything around you if you don't
+really know the one doing the knowing?
+
+-- Ramana Maharshi
+#+end_quote
+
+* Reflection and summary
+We've taken a brief look at TRUTH and the planes of consciousness
+that are junior and senior to it. Now that we've covered these realms,
+let's summarize them:
+| *Level* | *Point of View*                              | *Description*                                                                          | *Signature Text*                                | *Representative Systems*                                                                         |
+|       0 | None                                         | Utter nothingness                                                                      | "Hsin Hsin Ming" (The Book of Nothing) by Sosan | If anything, Zen Buddhism                                                                        |
+|       1 | Subject with No Object                       | Pure being, Consciousness without an object, Advaita Vedana                            | "Reality in 40 Verses" by Ramana Maharshi       | Advaita Vedanta, Franklin Merrell-Wolff                                                          |
+|       2 | Subject with Personal Objects                | TRUTH, Imagination, Illusion, Shamanic Journeying, Psychedelic Trips, Pure Mathematics | "Spiritologie"                                  | Isolation Tank Gnosis, Poetry, Dance, Art, Cartoons, Pure Mathematics, Quantum Physics           |
+|       3 | Subject with Objects other Subjects Agree On | Reality                                                                                | Any classical mechanics textbook                | Applied mathematics, Science other than Quantum Physics, a Court of Law, Intentional Communities |
+|         |                                              |                                                                                        |                                                 |                                                                                                  |
 
 Now let's be clear where TRUTH is in ITG. It is level 2 in the table
-above.
+above. You read that right. While many religions are quick to
+proclaim themselves as the one true faith, the solid rock, all you
+ever need, the best, etc, we openly acknowledge that there are more
+primordial realms in which one can dwell:
+
+#+begin_quote
+Spiritual practice is making the distinction between awareness and
+thought. Anything else is not worthy of the title
+of spiritual practice.
+
+-- Arunachala Ramana, Founder of AHAM.com
+#+end_quote
+
+Not ITG's cup of tea, but a chacun son gout!
+
 ** Traps
 Perhaps traps is a bit too strong of a word, but we definitely want
-to be on guard for swapping our definition of TRUTH for _any_
+to be on guard for swapping our definition of TRUTH for _any_ overt
+or covert obligatory
 consensus[fn:: No matter how popular, seductive, impressive, etc it
 may be]. The Route to Infinity requires each "I" to express things
 as seen through its eyes. [fn:: The author acknowledges [[http://www.allabout-energy.com][Amy Flynn and
@@ -202,9 +224,12 @@ phenomenon or idea from our members.
 
 * Isolation
 Now, we begin to delve into the specifics of ITG's approach to
-seeking TRUTH. As we have acknowledged before, many religious
+seeking TRUTH[fn:: Isolation, sweet Isolation!]. As we have
+acknowledged before, many religious
 organizations are in 100% agreement with our definition of
-TRUTH. They simply have a different path to it[fn:: For instance
+TRUTH[fn:: Yes it is hypocritical to be concerned with agreement when
+this is all about self-determined TRUTH]. They simply have a different
+path to it[fn:: For instance
 Spiritologie makes use of auditing and the Imagination Process to
 help seekers arrive at TRUTH.].
 
@@ -216,7 +241,7 @@ But anyway, how to achieve isolation? Well, there are many ways to
 achieve isolation. In "The Quiet Center" John Lilly discusses a number
 of ways that isolation occurs.
 
-** ITG provides Isolation Through the Isolation Tank
+** ITG provides Isolation via the Isolation Tank
 While there are many ways to accomplish isolation, ITG provides just
 one: the isolation tank, a device invented by John C. Lilly in 1954.
 So, the Isolation Tank can provide Isolation and hence TRUTH. How
@@ -230,11 +255,11 @@ does isolation occur? In a few ways:
 - The tub of water is covered over the top. This removes the
   influence of light and sound on you. This again is both sensory and
   motor freedom. No need to process images and sound. And hence the
-  resulting semi-automatic survival-driven calculations do not
+  resulting semi-automatic survival-driven motor instructions do not
   follow.
 
-It's worth mentioning here that none of the isolation tank's
-isolation is anywhere near perfect. And it doesnt need to be because
+It's worth mentioning here that even if high-quality tanks the
+isolation is nowhere near perfect. And it doesnt need to be because
 the "The Tank is Your Native State"[fn:: to quote the title of the
 final chapter of "Tanks for the Memories" by EJ Gold]. You couldn't
 leave isolation if you wanted to. But you can certainly make it seem
@@ -246,8 +271,8 @@ Nothing ever has happened, or ever will happen.
 All that I have been aware of is ..
 #+end_quote
 
-So, the just provides you a gentle nudge, a subtle hint, of your
-native state!
+So, the isolation tank just provides you a gentle nudge, a subtle
+hint, of your native state!
 
 And since it is your native state, how much instruction, preaching,
 praying, etc is necessary to get you to TRUTH? We say little to none
@@ -263,16 +288,60 @@ state, a state isolated from sensory input.
 #+end_quote
 
 * Temple, Ceremony and Ritual
-The temple, ceremony and ritual of ITG is designed to prevent the
-sort spillage we read about here:
+Let's start with ritual. The single official ritual of ITG is
+floating in an isolation tank[fn:: My, that was simple!]. The temple
+and ceremony in ITG are designed to prevent any spillage of the
+expectations and judgements of the facilitators onto
+the ritual of the practitioner.
+
+Let's read an example of spillage:
 
 #+begin_quote
+... if one works with a bottlenose dolphin day in and day out for
+many hours, days, and weeks, one is struck with the fact that one's
+current basic assumptions and even one's current basic expectations
+determine, within certain limits, the results attained with a
+particular animal at that particular time.
 
-#end_quote
+-- John C. Lilly, A Feeling of Weirdness
+#+end_quote
 
-*
-* Afow first page
-** COC p.38 = I prefer staying in my own center
+So our intent is:
+1. While interacting with the practitioner prior to ritual, to add no
+   expectations on what can or will be experienced.
+2. If any post-ritual interaction is necessary[fn:: ideally the
+   temple would be setup so that the practitioner can exit the temple
+   with no need to interact with the facilitator at all], there
+   should be no judgement of the practitioners ritual for
+   correctness, holiness, sanctity, etc.
+
+** Pre-Ritual: Maximum Isolation with Minimal Expectation
+
+So now that we have our goal, how should we realize it? How should we
+interact with another with the goal of maximum isolation and minimum
+expectation?
+
+The best answer is: "figure it out yourself" but here are a few
+things you might want to try:
+
+*** Expect the unexpected
+In John C. Lilly's Conversation with Three Beings, he received this
+technique. I feel it is appropriate when interacting
+
+*** Plugging YOUr ears
+
+*** Read some inspiring words about isolation
+
+*** Hold Your Breath
+
+*** Do nothing
+
+
+
+
+** Post-ritual should nurture social isolation
+*** p. 129 "range of phenomena great than society will accept"
+*** any post-communication is initiated by the
 ** definition of terms
 ** Temple is designed to encourage social isolation
 *** p.126 TDS
@@ -285,19 +354,48 @@ sort spillage we read about here:
 ** Truth Ritual
 ** Greeting Ritual
 ** The ritual takes place
-** Post-ritual should nurture social isolation
-*** p. 129 "range of phenomena great than society will accept"
-*** any post-communication is initiated by the
+*
 ** Night time is an allright time
 ** Time limits
 
+** Conclusion
+Isolation is the way and imagination is the path. Ideally you
+wouldn't even be reading this text. You would have your own tank in
+your own space and not have a thing to do with our religion. However,
+beginning your
+journey into isolation with a tank requires a tank, which can pose a
+hurdle for some. It costs money, takes space and requires labor to
+have one.
+
+So, in interacting with you, we want to make sure not impose the
+additional burden of expecting you to think or behave in a certain
+way.
+
+
+And from the inventor of the isolation tank we read:
+
+#+begin_quote
+COC p.38 = I prefer staying in my own center
+#+end_quote
 
 * Charge for Service
+
+When it comes to charging currency for temple services, each temple
+is free to choose its own policy. A few ideas I have come across on
+this subject follow.
+
 ** Entirely free
+Some places believe that no money should be charged for spiritual
+services and never change a penny.
+
 ** Donation based
 ** Pay full price
 ** Receive service on credit
 ** Patronize my business
+
+
+
+# <<alternative_isolation>>
 * Alternative Isolation Techniques
 We must remember that Isolation is a path to the Truth, not truth
 itself. So, accurately, this chapter should be about ways to dwell in
@@ -380,7 +478,7 @@ expected of you and can occur to you:
                 ritual is available to you 24 hours a day, 7 days a
                 week!
                 #+begin_quote
-                The Pied Pipe entrances and entrains the children.
+                The Pied Piper entrances and entrains the children.
                 -- p. 38 COC
                 #+end_quote
 
@@ -396,3 +494,4 @@ return to a realm of utter freedom and no need to agree with anyone!
 ** [[http://www.thinkingallowed.com/2jlilly.html]["From Here to Alternity"]] - an interview with Dr. Lilly
 ** [[http://www.lawoftime.org/pdfs/Perpetual13MoonCalendar.pdf][Law of Time]]
 ***
+* Temple Locations
