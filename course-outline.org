@@ -290,6 +290,7 @@ state, a state isolated from sensory input.
 -- John Lilly "The Quiet Center"
 #+end_quote
 
+
 * Temple, Ceremony and Ritual
 Let's start with ritual. The single official ritual of ITG is
 floating in an isolation tank[fn:: My, that was simple!]. The temple
@@ -383,13 +384,19 @@ COC p.38 = I prefer staying in my own center
 
 * Charge for Service
 
-When it comes to charging currency for temple services, each temple
-is free to choose its own policy. A few ideas I have come across on
-this subject follow.
+When it comes to charging currency[fn:: or money] for temple services,
+each temple is free to choose its own policy. A few ideas I have come
+across on this subject follow.
 
 ** Entirely free
 Some places believe that no money should be charged for spiritual
-services and never change a penny.
+services and never change a penny. A system I am very fond of that
+works this way is Izunome[fn:: related systems of Johrei,
+Mahikari]. Of course when a place has nice physical facilities and
+full-time staff, one knows that they are receiving significant
+amounts of cashflow. And in my opinion they deserve it. Any
+organization effecting miracle healing of any and all disease at no
+costs deserves copious freewill donations.
 
 ** Donation based
 ** Pay full price
