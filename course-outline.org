@@ -1,4 +1,4 @@
-#+TITLE Isolation Tank Gnosis
+Int#+TITLE Isolation Tank Gnosis
 
 # <<Ii13>>
 * Isolation in 13 Verses
@@ -323,6 +323,7 @@ Truth
 ** Plugging your ears
 ** Social Isolation
 ** Word Repetition
+** Living in the Wilderness
 * From Reality to Truth over Time
 ** Dreamspell calendar - 13 moons + 1 day out of time
 * From Reality to Truth
